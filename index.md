@@ -1,4 +1,4 @@
-## This is Me, Putsal!
+# This is Me, Putsal!
 
 ```markdown
 1. Dunno what to say
@@ -6,5 +6,5 @@
 3. OS is funny :)
 ```
 
-# Thank you
+### Thank you
 for visiting
