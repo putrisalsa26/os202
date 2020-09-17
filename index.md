@@ -25,4 +25,4 @@ Hello my name is **Putri Salsabila** and this is my Github Page for OS.
 > 3. OS is funny :)
 
 ### Thank you
-for visiting
+for visiting :)
