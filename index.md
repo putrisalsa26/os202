@@ -1,10 +1,28 @@
 # This is Me, Putsal!
+Hello my name is **Putri Salsabila** and this is my Github Page for OS.
 
 ```markdown
-1. Dunno what to say
-2. Soon this page will be full of texts and codes
-3. OS is funny :)
+## My Logs
+- [Logs](TXT/mylog.txt)
 ```
+
+```markdown
+## My Lists
+- [week 00](W00/)
+- ...
+- ...
+- ...
+- ...
+- ...
+- ...
+- ...
+- ...
+- ...
+```
+
+> 1. Dunno what to say
+> 2. Soon this page will be full of texts and codes
+> 3. OS is funny :)
 
 ### Thank you
 for visiting
