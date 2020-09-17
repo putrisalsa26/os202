@@ -1,12 +1,9 @@
 # This is Me, Putsal!
 Hello my name is **Putri Salsabila** and this is my Github Page for OS.
 
-```markdown
 ## My Logs
 - [Logs](TXT/mylog.txt)
-```
 
-```markdown
 ## My Lists
 - [week 00](W00/)
 - ...
@@ -18,7 +15,6 @@ Hello my name is **Putri Salsabila** and this is my Github Page for OS.
 - ...
 - ...
 - ...
-```
 
 > 1. Dunno what to say
 > 2. Soon this page will be full of texts and codes
