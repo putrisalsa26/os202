@@ -18,7 +18,7 @@ Hello my name is **Putri Salsabila** and this is my Github Page for OS.
 
 > 1. Dunno what to say
 > 2. Soon this page will be full of texts and codes
-> 3. OS is funny :)
+> 3. OS is funny :D
 
 ### Thank you
 for visiting :)
