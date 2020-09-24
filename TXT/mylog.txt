@@ -11,3 +11,6 @@ ZCZC W01 120  L99 Other (Install WSL)
 ZCZC W01 15   L14 Assignment #4
 ZCZC W01 15   L09 AsDos : asking
 ZCZC W01 30   L15 Assignment #5
+ZCZC W01 10 L16 Assignment #6
+ZCZC W01 15 L17 Assignment #7
+ZCZC W01 5 GSGS : Learn vi editor
