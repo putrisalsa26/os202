@@ -15,3 +15,4 @@ ZCZC W01 10   L16 Assignment #6
 ZCZC W01 15   L17 Assignment #7
 ZCZC W01 5    L05 GSGS : Learn vi editor
 ZCZC W01 10   L18 Assignment #8
+ZCZC W01 135 L05 GSGS : Design Issues, Storage Structure, I/O Structure, Operating System Structure, Operating System Services, User Operating System Interface, APIs, Interrupt
