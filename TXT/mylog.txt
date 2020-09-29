@@ -1,21 +1,19 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 105  L02 ZOOM
-ZCZC W00 7    L03 Github related
-ZCZC W00 30   L05 GSGS : How to Create Github Page)
-ZCZC W00 90   L04 Github Page related : Create and Set a Github Page)
-ZCZC W00 25   L05 GSGS : About computer system architecture)
-ZCZC W01 120  L02 ZOOM
-ZCZC W01 120  L99 Other (Install WSL)
-ZCZC W01 15   L14 Assignment #4
-ZCZC W01 15   L09 AsDos : asking
-ZCZC W01 30   L15 Assignment #5
-ZCZC W01 10   L16 Assignment #6
-ZCZC W01 15   L17 Assignment #7
-ZCZC W01 5    L05 GSGS : Learn vi editor
-ZCZC W01 10   L18 Assignment #8
-ZCZC W01 135  L05 GSGS : Design Issues, Storage Structure, I/O Structure, Operating System Structure, 
-                         Operating System Services, User Operating System Interface, APIs, Interrupt
-ZCZC W01 120  L05 GSGS : Virtualization, Virtual Memory & Paging, File System, System Calls & Its Types, 
-                         Hypervisors, Cloud Services, Introduction to REGEX & Scripting
+ZCZC W00 105 L02 ZOOM related
+ZCZC W00 7 L03 Github related
+ZCZC W00 30 L05 GSGS related: How to create github page
+ZCZC W00 90 L04 Github Pages: Create and set a github age
+ZCZC W00 25 L05 GSGS related: About computer system architecture
+ZCZC W01 120 L02 ZOOM related
+ZCZC W01 120 L99 Other (Install WSL)
+ZCZC W01 15 L14 Assignment #4
+ZCZC W01 15 L09 AsDos: asking
+ZCZC W01 30 L15 Assignment #5
+ZCZC W01 10 L16 Assignment #6
+ZCZC W01 15 L17 Assignment #7
+ZCZC W01 5 L05 GSGS related: Learn vi editor
+ZCZC W01 10 L18 Assignment #8
+ZCZC W01 135 L05 GSGS related: Design issues, storage structure, I/O structure, operating system structure & services & interface, APIs, interrupt
+ZCZC W01 120 L05 GSGS: Virtualization, virtual memory & paging, file system, system calls & types, hypervisors, cloud services, introduction to REGEX & scripting
