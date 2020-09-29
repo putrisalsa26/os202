@@ -16,4 +16,5 @@ ZCZC W01 15 L17 Assignment #7
 ZCZC W01 5 L05 GSGS related: Learn vi editor
 ZCZC W01 10 L18 Assignment #8
 ZCZC W01 135 L05 GSGS related: Design issues, storage structure, I/O structure, operating system structure & services & interface, APIs, interrupt
-ZCZC W01 120 L05 GSGS: Virtualization, virtual memory & paging, file system, system calls & types, hypervisors, cloud services, introduction to REGEX & scripting
+ZCZC W01 120 L05 GSGS related: Virtualization, virtual memory & paging, file system, system calls & types, hypervisors, cloud services, introduction to REGEX & scripting
+ZCZC W02 120 L02 ZOOM related
