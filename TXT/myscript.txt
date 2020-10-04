@@ -1,0 +1,18 @@
+#!/bin/bash
+
+#input
+echo "Week (ex: W01): "
+read week
+echo "Duration (minute): "
+read duration
+echo "Log code: "
+read log_code
+echo "Description: "
+read desc
+
+#append to a file
+echo "ZCZC $week $duration $log_code $desc">> mylog.txt
+
+#open the file
+cat mylog.txt
+echo "\nSuccess"
