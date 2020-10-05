@@ -32,3 +32,4 @@ ZCZC W02 150 L05 GSGS related: All about my top 10 of week 2
 ZCZC W02 45 L11 Assignment #1
 ZCZC W02 150 L16 Assignment #6
 ZCZC W02 10 L18 Assignment #8
+ZCZC W02 25 L17 Assignment #7: Move script.txt to script.sh & fixing errors
