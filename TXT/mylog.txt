@@ -24,3 +24,11 @@ ZCZC W02 20 L13 Assignment #3
 ZCZC W02 15 L14 Assignment #4
 ZCZC W02 20 L15 Assignment #5
 ZCZC W02 10 L19 Assignment #9
+ZCZC W02 20 L05 GSGS related: Learn bash scripting
+ZCZC W02 20 L08 Trying something: Implement bash scripting
+ZCZC W02 30 L17 Assignment #7
+ZCZC W02 15 L05 GSGS related: Try to fix an error in myscript.txt
+ZCZC W02 150 L05 GSGS related: All about my top 10 of week 2
+ZCZC W02 45 L11 Assignment #1
+ZCZC W02 150 L16 Assignment #6
+ZCZC W02 10 L18 Assignment #8

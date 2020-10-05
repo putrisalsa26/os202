@@ -1,13 +1,15 @@
 # This is Me, Putsal!
 Hello my name is **Putri Salsabila** and this is my Github Page for OS.
 
-## My Logs
+## My Texts
 - [Logs](TXT/mylog.txt)
+- [Ranks](TXT/myrank.txt)
+- [Script](TXT/myscript.txt)
 
 ## My Lists
 - [Week 00](W00/)
 - [Week 01](W01/)
-- ...
+- [Week 02](W02/)
 - ...
 - ...
 - ...

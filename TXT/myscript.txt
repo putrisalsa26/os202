@@ -11,7 +11,7 @@ echo "Description: "
 read desc
 
 #append to a file
-echo "ZCZC $week $duration $log_code $desc">> mylog.txt
+printf "\nZCZC $week $duration $log_code $desc">> mylog.txt
 
 #open the file
 cat mylog.txt
