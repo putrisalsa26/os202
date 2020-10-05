@@ -12,7 +12,7 @@ echo "2) Sign files"
 echo "Choose menu: "
 read choose_menu
 
-if [ $(($choose_menu)) -eq 1]
+if [ $(($choose_menu)) -eq 1 ]
 then
   #input
   echo "Week (ex: W01): "
@@ -31,7 +31,7 @@ then
   cat mylog.txt
   echo "Success"
 
-elif [ $(($choose_menu)) -eq 2]
+elif [ $(($choose_menu)) -eq 2 ]
 then
   rm -f $SHA $SHA.asc
 
