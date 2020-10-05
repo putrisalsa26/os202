@@ -1,25 +1,59 @@
 #!/bin/bash
-# Cicak bin Kadal
-# Mon Sep 28 22:03:27 WIB 2020
-# Tue 29 Sep 2020 11:02:39 AM WIB
-# PALSU BANGET SEKALI UBAH
 
+#files
+LOG_FILE = "mylog.txt"
 FILES="mylog.txt mypubkey.txt myrank.txt myscript.sh"
 SHA="SHA256SUM"
 
-rm -f $SHA $SHA.asc
+#menu option
+echo "Menu: "
+echo "1) Add log"
+echo "2) Sign files"
+echo "Choose menu: "
+read choose_menu
 
-echo "sha256sum $FILES > $SHA"
-sha256sum $FILES > $SHA
+if [ $(($choose_menu)) -eq 1]
+then
+  #input
+  echo "Week (ex: W01): "
+  read week
+  echo "Duration (minute): "
+  read duration
+  echo "Log code: "
+  read log_code
+  echo "Description: "
+  read desc
 
-echo "sha256sum -c $SHA"
-sha256sum -c $SHA
+  #append to a file
+  printf "\nZCZC $week $duration $log_code $desc">> mylog.txt
 
-echo "gpg -o $SHA.asc -a -sb $SHA"
-gpg -o $SHA.asc -a -sb $SHA
+  #open the file
+  cat mylog.txt
+  echo "Success"
+  fi
 
-echo "gpg --verify $SHA.asc $SHA"
-gpg --verify $SHA.asc $SHA
+if [ $(($choose_menu)) -eq 2]
+then
+  rm -f $SHA $SHA.asc
+
+  echo "sha256sum $FILES > $SHA"
+  sha256sum $FILES > $SHA
+
+  echo "sha256sum -c $SHA"
+  sha256sum -c $SHA
+
+  echo "gpg -o $SHA.asc -a -sb $SHA"
+  gpg -o $SHA.asc -a -sb $SHA
+
+  echo "gpg --verify $SHA.asc $SHA"
+  gpg --verify $SHA.asc $SHA
+  
+  echo "Success"
+  fi
+
+else
+  echo "Try again"
+  fi
 
 exit 0
 
