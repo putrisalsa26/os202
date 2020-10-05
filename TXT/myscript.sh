@@ -12,48 +12,51 @@ echo "2) Sign files"
 echo "Choose menu: "
 read choose_menu
 
-if [ $(($choose_menu)) -eq 1]
-then
-  #input
-  echo "Week (ex: W01): "
-  read week
-  echo "Duration (minute): "
-  read duration
-  echo "Log code: "
-  read log_code
-  echo "Description: "
-  read desc
+while [ ! $(($OPTION)) -eq 0 ]
+do
+  if [ $(($choose_menu)) -eq 1]
+  then
+    #input
+    echo "Week (ex: W01): "
+    read week
+    echo "Duration (minute): "
+    read duration
+    echo "Log code: "
+    read log_code
+    echo "Description: "
+    read desc
 
-  #append to a file
-  printf "\nZCZC $week $duration $log_code $desc">> mylog.txt
+    #append to a file
+    printf "\nZCZC $week $duration $log_code $desc">> mylog.txt
 
-  #open the file
-  cat mylog.txt
-  echo "Success"
-  fi
+    #open the file
+    cat mylog.txt
+    echo "Success"
+    fi
 
-if [ $(($choose_menu)) -eq 2]
-then
-  rm -f $SHA $SHA.asc
+  elif [ $(($choose_menu)) -eq 2]
+  then
+    rm -f $SHA $SHA.asc
 
-  echo "sha256sum $FILES > $SHA"
-  sha256sum $FILES > $SHA
+    echo "sha256sum $FILES > $SHA"
+    sha256sum $FILES > $SHA
 
-  echo "sha256sum -c $SHA"
-  sha256sum -c $SHA
+    echo "sha256sum -c $SHA"
+    sha256sum -c $SHA
 
-  echo "gpg -o $SHA.asc -a -sb $SHA"
-  gpg -o $SHA.asc -a -sb $SHA
+    echo "gpg -o $SHA.asc -a -sb $SHA"
+    gpg -o $SHA.asc -a -sb $SHA
 
-  echo "gpg --verify $SHA.asc $SHA"
-  gpg --verify $SHA.asc $SHA
-  
-  echo "Success"
-  fi
+    echo "gpg --verify $SHA.asc $SHA"
+    gpg --verify $SHA.asc $SHA
 
-else
-  echo "Try again"
-  fi
+    echo "Success"
+    fi
+
+  else
+    echo "Try again"
+    fi
+done
 
 exit 0
 
