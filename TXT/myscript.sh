@@ -30,7 +30,6 @@ then
   #open the file
   cat mylog.txt
   echo "Success"
-  fi
 
 elif [ $(($choose_menu)) -eq 2]
 then
@@ -49,7 +48,6 @@ then
   gpg --verify $SHA.asc $SHA
 
   echo "Success"
-  fi
 
 else
   echo "Try again"
