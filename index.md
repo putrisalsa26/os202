@@ -4,7 +4,7 @@ Hello my name is **Putri Salsabila** and this is my Github Page for OS.
 ## My Texts
 - [Logs](TXT/mylog.txt)
 - [Ranks](TXT/myrank.txt)
-- [Script](TXT/myscript.txt)
+- [Script](TXT/myscript.sh)
 
 ## My Lists
 - [Week 00](W00/)

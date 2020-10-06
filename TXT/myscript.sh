@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #files
-LOG_FILE = "mylog.txt"
+LOG_FILE="mylog.txt"
 FILES="mylog.txt mypubkey.txt myrank.txt myscript.sh"
 SHA="SHA256SUM"
 
@@ -25,10 +25,11 @@ then
   read desc
 
   #append to a file
-  printf "\nZCZC $week $duration $log_code $desc">> mylog.txt
+  printf "\nZCZC $week $duration $log_code $desc">> $LOG_FILE
 
   #open the file
   cat mylog.txt
+  echo ""
   echo "Success"
 
 elif [ $(($choose_menu)) -eq 2 ]
