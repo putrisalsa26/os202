@@ -5,3 +5,6 @@ ZCZC W00 nmhlog
 ZCZC W01 primogu
 ZCZC W01 rioafirando
 ZCZC W01 saddamonpc
+ZCZC W02 nyomangedar
+ZCZC W02 qiwqiw
+ZCZC W02 ndafarhan

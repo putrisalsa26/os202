@@ -2,7 +2,7 @@
 
 #files
 LOG_FILE="mylog.txt"
-FILES="mylog.txt mypubkey.txt myrank.txt myscript.sh"
+FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
 
 #menu option
