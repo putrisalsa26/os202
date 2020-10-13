@@ -34,6 +34,7 @@ then
 
 elif [ $(($choose_menu)) -eq 2 ]
 then
+  echo "rm -f $SHA $SHA.asc"
   rm -f $SHA $SHA.asc
 
   echo "sha256sum $FILES > $SHA"

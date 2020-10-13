@@ -47,3 +47,12 @@ ZCZC W03 35 L15 Assignment #5
 ZCZC W03 3 L20 Assignment #10
 ZCZC W03 5 L18 Assignment #8
 ZCZC W03 3 L20 Assignment #10
+ZCZC W04 120 L02 ZOOM related
+ZCZC W04 30 L07 Demo related
+ZCZC W04 23 L12 Assignment #2
+ZCZC W04 10 L13 Assignment #3
+ZCZC W04 2 L15 Assignment #5
+ZCZC W04 30 L16 Assignment #6
+ZCZC W04 5 L17 Assignment #7
+ZCZC W04 5 L18 Assignment #8
+ZCZC W04 1 L19 Assignment #9
