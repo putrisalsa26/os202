@@ -69,3 +69,9 @@ ZCZC W05 30 L16 Assignment #6
 ZCZC W05 1 L18 Assignment #8
 ZCZC W05 5 L17 Assignment #7
 ZCZC W05 1 L19 Assignment #9
+ZCZC W05 65 L06 Reading Refereces/Books/Documents: Book Chapter 10
+ZCZC W05 65 L11 Assignment #1
+ZCZC W05 60 L05 GSGS related: All about my top 10 of week 05
+ZCZC W05 100 L14 Assignment #4
+ZCZC W05 3 L18 Assignment #8: Update log again
+ZCZC W05 1 L20 Assignment #10: Sign files again
