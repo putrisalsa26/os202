@@ -1,5 +1,1 @@
-Output berbentuk file format txt : 
-myW05.txt
-
-Isi myW05.txt :
 ZCZC W05 putrisalsa26

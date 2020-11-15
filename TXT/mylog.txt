@@ -75,3 +75,10 @@ ZCZC W05 60 L05 GSGS related: All about my top 10 of week 05
 ZCZC W05 100 L14 Assignment #4
 ZCZC W05 3 L18 Assignment #8: Update log again
 ZCZC W05 1 L20 Assignment #10: Sign files again
+ZCZC W06 15 L12 Assignment #2
+ZCZC W06 3 L15 Assignment #5
+ZCZC W06 85 L16 Assignment #6
+ZCZC W06 2 L18 Assignment #8
+ZCZC W06 2 L19 Assignment #9
+ZCZC W06 1 L20 Assignment #10
+ZCZC W06 5 L21 Assignment #11
