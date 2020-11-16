@@ -82,3 +82,9 @@ ZCZC W06 2 L18 Assignment #8
 ZCZC W06 2 L19 Assignment #9
 ZCZC W06 1 L20 Assignment #10
 ZCZC W06 5 L21 Assignment #11
+ZCZC W06 70 L11 Assignment #1
+ZCZC W06 10 L13 Assignment #3
+ZCZC W06 90 L14 Assignment #4
+ZCZC W06 10 L16 Assignment #6: Revision
+ZCZC W06 15 L17 Assignment #7
+
