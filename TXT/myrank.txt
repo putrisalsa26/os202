@@ -17,4 +17,7 @@ ZCZC W04 nyomangedar
 ZCZC W05 raihanarmon
 ZCZC W05 rioafirando
 ZCZC W05 primogu
+ZCZC W06 piawaisaid
+ZCZC W06 rabialco
+ZCZC W06 nmhlog
 

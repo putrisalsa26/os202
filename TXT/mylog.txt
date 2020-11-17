@@ -87,7 +87,11 @@ ZCZC W06 10 L13 Assignment #3
 ZCZC W06 90 L14 Assignment #4
 ZCZC W06 10 L16 Assignment #6: Revision
 ZCZC W06 15 L17 Assignment #7
-
-
 ZCZC W07 120 L02 ZOOM related
 ZCZC W07 20 L03 GitHub related: Change UNIX username & revision week 05 - week 06
+ZCZC W07 1 L11 Assignment #1
+ZCZC W07 2 L16 Assignment #6
+ZCZC W07 3 L13 Assignment #3
+ZCZC W07 5 L14 Assignment #4
+ZCZC W07 5 L18 Assignment #8: Update logs
+ZCZC W07 2 L20 Assignment #10: Sign files
