@@ -98,4 +98,7 @@ ZCZC W07 2 L20 Assignment #10: Sign files
 ZCZC W07 2 L19 Assignment #9
 ZCZC W07 45 L12 Assignment #2
 ZCZC W07 125 L15 Assignment #5
-
+ZCZC W07 90 L17 Assignment #7
+ZCZC W07 5 L21 Assignment #11
+ZCZC W07 5 L22 Assignment #12
+ZCZC W07 2 L20 Assignment #10: Sign files
