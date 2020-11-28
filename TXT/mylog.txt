@@ -102,3 +102,12 @@ ZCZC W07 90 L17 Assignment #7
 ZCZC W07 5 L21 Assignment #11
 ZCZC W07 5 L22 Assignment #12
 ZCZC W07 2 L20 Assignment #10: Sign files
+ZCZC W08 1 L11 Assignment #1
+ZCZC W08 2 L16 Assignment #6
+ZCZC W08 40 L12 Assignment #2
+ZCZC W08 10 L13 Assignment #3
+ZCZC W08 5 L14 Assignment #4
+ZCZC W08 5 L17 Assignment #7: Update logs
+ZCZC W08 2 L18 Assignment #8: Update script
+ZCZC W08 2 L19 Assignment #9: Sign files
+
