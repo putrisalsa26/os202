@@ -110,4 +110,9 @@ ZCZC W08 5 L14 Assignment #4
 ZCZC W08 5 L17 Assignment #7: Update logs
 ZCZC W08 2 L18 Assignment #8: Update script
 ZCZC W08 2 L19 Assignment #9: Sign files
+ZCZC W08 60 L15 Assignment #5
+ZCZC W08 480 L20 Assignment #10
+ZCZC W08 5 L21 Assignment #11
+ZCZC W08 5 L17 Assignment #7: Update logs
+ZCZC W08 2 L19 Assignment #9: Sign files
 
